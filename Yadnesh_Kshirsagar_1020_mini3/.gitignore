@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/*.db
+data/*.db-journal
+app.py.backup
+Dockerfile.backup
+.env
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Database and backups
+data/*.db
+data/*.db-journal
+*.backup
+.env
+venv/
